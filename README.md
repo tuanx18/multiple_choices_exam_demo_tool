@@ -51,3 +51,24 @@ Blank attributes are displayed as **N/A** in the UI. Invalid questions are skipp
 - All buttons have tooltips.
 - Submit confirmation warns about unanswered questions.
 - Choices are shuffled if `can_shuffle` is `true` and the correct answers are remapped accordingly.
+
+## Screenshots
+
+1. Landing Interface
+
+<img width="713" height="501" alt="image" src="https://github.com/user-attachments/assets/2bd01d3f-99dc-4710-ba65-807eca8cb3b3" />
+
+2.  Customization
+
+<img width="1692" height="825" alt="image" src="https://github.com/user-attachments/assets/bc95742f-cc27-40bd-90ba-a5b8e2ec8404" />
+
+3. Sample questions
+
+<img width="1617" height="922" alt="image" src="https://github.com/user-attachments/assets/3376b717-8ab3-4e0d-9900-27b06097a6f3" />
+
+4. Exam Results
+
+<img width="1642" height="930" alt="image" src="https://github.com/user-attachments/assets/113136ab-ef0b-43c6-8929-467a39496112" />
+
+## HAVE FUN LEARNING!
+
